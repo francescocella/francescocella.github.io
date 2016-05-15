@@ -6,7 +6,7 @@ src: local("Arial"), url("Arial.ttf") format("truetype");
 body {
 	padding: 0;
 	margin: 0;
-	text-align: center;
+	text-align: left;
 }
 #immagine-navbar {
 	position: fixed;
