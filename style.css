@@ -30,6 +30,7 @@ li a, .dropbtn {
     	text-align: center;
     	text-decoration: none;
     	z-index: 10000;
+    	font-family: "Arial";
 }
 li a:hover, .dropdown:hover .dropbtn {
     	z-index: 10000;
