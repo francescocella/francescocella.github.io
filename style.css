@@ -1,7 +1,7 @@
 @font-face {
-	font-family: "Verdana";
-	src: url(Verdana.eot);
-	src: local("Verdana"), url("Verdana.ttf") format("truetype");
+	font-family: "GothamBook";
+	src: url(GothamBook.eot);
+	src: local("GothamBook"), url("GothamBook.ttf") format("truetype");
 }
 body {
 	padding: 0;
@@ -30,7 +30,7 @@ li a, .dropbtn {
     	text-align: center;
     	text-decoration: none;
     	z-index: 10000;
-    	font-family: "Verdana";
+    	font-family: "GothamBook";
 }
 li a:hover, .dropdown:hover .dropbtn {
     	z-index: 10000;
