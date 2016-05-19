@@ -1,7 +1,7 @@
 @font-face {
-	font-family: "GothamBook";
-	src: url(GothamBook.eot);
-	src: local("GothamBook"), url("GothamBook.ttf") format("truetype");
+	font-family: "Impact";
+	src: url(Impact.eot);
+	src: local("Impact"), url("Impact.ttf") format("truetype");
 }
 body {
 	padding: 0;
@@ -30,7 +30,7 @@ li a, .dropbtn {
     	text-align: center;
     	text-decoration: none;
     	z-index: 10000;
-    	font-family: "GothamBook";
+    	font-family: "Impact";
 }
 li a:hover, .dropdown:hover .dropbtn {
     	z-index: 10000;
