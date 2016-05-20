@@ -65,15 +65,15 @@ li.dropdown {
     	transition-duration: 0.01s;
 #slideshow { 
     margin: 50px auto; 
-    position: relative; 
+    position: fixed; 
     width: 1000px; 
     height: 413px; 
-    padding: 10px; 
+    padding: 1%px; 
     box-shadow: 0 0 20px rgba(0,0,0,0.4); 
 }
 
 #slideshow > div { 
-    position: absolute; 
+    position: fixed; 
     top: 10px; 
     left: 10px; 
     right: 10px; 
