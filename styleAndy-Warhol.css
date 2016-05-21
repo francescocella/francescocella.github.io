@@ -73,7 +73,7 @@ li.dropdown {
 	padding-top: 50%;
 }
 #titolo-foto {
-	position: absolute;
+	position: right;
 	top: 81%;
 	height: 100%;
 	font-weight: bold;
