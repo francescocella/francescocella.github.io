@@ -67,7 +67,7 @@ li.dropdown {
     	transition-duration: 0.01s;
 }
 #immagine-inizio {
-	background-image: url();
+	background-image: url(https://s3.amazonaws.com/files.collageplatform.com.prod/image_cache/750x500_fit/5451096907a72c7d438b4568/bdfa520a8596e2ec908c53b07a220140.jpg);
 	background-size: 100% 100%;
 	width: 100%;
 	padding-top: 50%;
