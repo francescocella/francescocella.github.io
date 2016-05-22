@@ -7,14 +7,14 @@ body {
 	padding: 0;
 	margin: 0;
 	text-align: center; 
-        background-color:yellow;
+        background-color:purple;
 	
 }
 ul {
 	list-style-type: none;
     	margin: 0;
     	padding: 0;
-    	background-color: yellow;
+    	background-color: purple;
     	z-index: 10000;
     	position: fixed;
     	width: 100%;
@@ -46,7 +46,7 @@ li.dropdown {
 .dropdown-content {
     	display: none;
     	position: absolute;
-    	background-color: yellow;
+    	background-color: purple;
     	min-width: 160px;
     	z-index: 10000;
     	padding-top: 1%;
