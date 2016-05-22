@@ -7,13 +7,13 @@ body {
 	padding: 0;
 	margin: 0;
 	text-align: center;
-	background-color: red;
+	background-color: black;
 }
 ul {
 	list-style-type: none;
     	margin: 0;
     	padding: 0;
-    	background-color: red;
+    	background-color: black;
     	z-index: 10000;
     	position: fixed;
     	width: 100%;
@@ -35,7 +35,7 @@ li a, .dropbtn {
 }
 li a:hover, .dropdown:hover .dropbtn {
     	z-index: 10000;
-    	color: gray;
+    	color: white;
     	transition-duration: 0.01s;
 }
 li.dropdown {
@@ -45,7 +45,7 @@ li.dropdown {
 .dropdown-content {
     	display: none;
     	position: absolute;
-    	background-color: red;
+    	background-color: black;
     	min-width: 160px;
     	z-index: 10000;
     	padding-top: 1%;
@@ -59,7 +59,7 @@ li.dropdown {
     	text-align: left;
     	z-index: 10000;
 }
-.dropdown-content a:hover {color: gray; z-index: 10000; transition-duration: 0.01s;}
+.dropdown-content a:hover {color: white; z-index: 10000; transition-duration: 0.01s;}
 .dropdown:hover .dropdown-content {
     	display: block;
     	z-index: 10000;
