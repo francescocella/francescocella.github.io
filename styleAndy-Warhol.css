@@ -7,14 +7,14 @@ body {
 	padding: 0;
 	margin: 0;
 	text-align: center; 
-        background-color:blue;
+        background-color:red;
 	
 }
 ul {
 	list-style-type: none;
     	margin: 0;
     	padding: 0;
-    	background-color: blue;
+    	background-color: red;
     	z-index: 10000;
     	position: fixed;
     	width: 100%;
@@ -46,7 +46,7 @@ li.dropdown {
 .dropdown-content {
     	display: none;
     	position: absolute;
-    	background-color: blue;
+    	background-color: red;
     	min-width: 160px;
     	z-index: 10000;
     	padding-top: 1%;
@@ -67,7 +67,7 @@ li.dropdown {
     	transition-duration: 0.01s;
 }
 #immagine-inizio {
-	background-image: url(1000509261001_1283298450001_Bio-Mini-Bio-Andy-Warhol-SF.jpg);
+	background-image: url(http://ilgiornaleoff.it/wp-content/uploads/2015/06/jacksonportrait.jpg);
 	background-size: 100% 100%;
 	width: 100%;
 	padding-top: 50%;
