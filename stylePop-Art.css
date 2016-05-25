@@ -64,3 +64,27 @@ li.dropdown {
     	display: block;
     	z-index: 10000;
     	transition-duration: 0.01s;
+}
+#immagine-inizio {
+	background-image: url();
+	background-size: 100% 100%;
+	width: 100%;
+	padding-top: 50%;
+}
+#titolo-foto {
+	position: right;
+	top: 81%;
+	height: 100%;
+	font-weight: bold;
+	font-size: 350%;
+	left: 6%;
+	color: white;
+	font-family: "Impact";
+}
+#testo {
+	position: absolute;
+	width: 91%;
+	height: 100%; 
+	font-family: "Arial";
+	text-align: left;
+	padding-left: 6%;
