@@ -89,3 +89,105 @@ li.dropdown {
 	font-family: "Impact";
 	text-align: left;
 	padding-left: 6%;
+}
+#artisti {
+	position: absolute;
+	left: 5%;
+	right: 5%;
+	top: 103%;
+	width: auto;
+	text-align: center;
+	font-size: 200%;
+	font-family: "Impact";
+	color: white;
+	font-weight: 300;
+	z-index=50
+}
+#testo {
+	position: absolute;
+	left: 5%;
+	right: 5%;
+	top: -10%;
+	width: auto;
+	text-align: center;
+	font-size: 318% ;
+	font-family: "Impact";
+	color: white;
+	z-index: 100;
+}
+#testo1 {
+	position: absolute;
+	left: 5%;
+	right: 5%;
+	top: -10%;
+	width: auto;
+	text-align: center;
+	font-size: 318% ;
+	font-family: "Impact";
+	color: white;
+	z-index: 100;
+}
+#testo2 {
+        position: absolute;
+	left: 5%;
+	right: 5%;
+	top: -10%;
+	width: auto;
+	text-align: center;
+	font-size: 318% ;
+	font-family: "Impact";
+	color: white;
+	z-index: 100;
+}
+#testo3 {
+        position: absolute;
+	left: 5%;
+	right: 5%;
+	top: -10%;
+	width: auto;
+	text-align: center;
+	font-size: 318% ;
+	font-family: "Impact";
+	color: white;
+	z-index: 100;
+#box1 {
+	background-image: url(http://www.newyorker.com/wp-content/uploads/2010/01/100111_r19205_p646-962-1200-23173346.jpg);
+	width: 47.5%;
+	height: 50%;
+	position: absolute;
+	z-index: 10;
+	left: 7.5%;
+	top: 42.6%;
+	background-size: 100% 100%;
+}
+#box2 {
+	background-image: url(http://www.roylichtenstein.com/images/Roy-Lichtenstein.jpg);
+	width: 47.5%;
+	height: 50%;
+	position: absolute;
+	z-index: 10;
+	left: 7.5%;
+	top: 18.4%;
+	background-size: 100% 100%;
+} 
+#box3 {
+	background-image: url(http://1vze7o2h8a2b2tyahl3i0t68.wpengine.netdna-cdn.com/wp-content/uploads/2015/04/rauschenberg2.jpeg);
+	width: 47.5%;
+	height: 93%;
+	background-color:white;
+	position: absolute;
+	z-index: 10;
+	left: 50.3%;
+	top: 20.9%;
+	background-size: 100% 100%;
+}
+#box4 {
+	background-image: url(http://c4gallery.com/artist/database/james-rosenquist/rosenquist-portrait.jpg);
+	width: 47.5%;
+	height: 50%;
+	background-color: white;
+	position: absolute;
+	z-index: 10;
+	left: 7.5%;
+	top: 18.1%;
+	background-size: 100% 100%;
