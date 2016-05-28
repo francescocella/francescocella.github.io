@@ -27,7 +27,7 @@ li {
 }
 li a, .dropbtn {
     	display: inline-block;
-    	color: white;
+    	color: red;
     	text-align: center;
     	text-decoration: none;
     	z-index: 10000;
@@ -35,7 +35,7 @@ li a, .dropbtn {
 }
 li a:hover, .dropdown:hover .dropbtn {
     	z-index: 10000;
-    	color: white;
+    	color: red;
     	transition-duration: 0.01s;
 }
 li.dropdown {
@@ -52,14 +52,14 @@ li.dropdown {
     	left: 43.7%;
 }
 .dropdown-content a {
-    	color: white;
+    	color: red;
     	padding: 6% 13%;
     	text-decoration: none;
     	display: block;
     	text-align: left;
     	z-index: 10000;
 }
-.dropdown-content a:hover {color: white; z-index: 10000; transition-duration: 0.01s;}
+.dropdown-content a:hover {color: red; z-index: 10000; transition-duration: 0.01s;}
 .dropdown:hover .dropdown-content {
     	display: block;
     	z-index: 10000;
@@ -82,7 +82,7 @@ li.dropdown {
 	font-family: "Impact";
 }
 #testo {
-	color: white;
+	color: red;
 	position: absolute;
 	width: 91%;
 	height: 100%;
