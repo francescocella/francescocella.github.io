@@ -7,13 +7,13 @@ body {
 	padding: 0;
 	margin: 0;
 	text-align: center;
-	background-color:rgb(0,191,255) ;
+	background-color:yellow;
 }
 ul {
 	list-style-type: none;
     	margin: 0;
     	padding: 0;
-    	background-color:rgb(0,191,255) ;
+    	background-color:yellow ;
     	z-index: 10000;
     	position: fixed;
     	width: 100%;
@@ -45,7 +45,7 @@ li.dropdown {
 .dropdown-content {
     	display: none;
     	position: absolute;
-    	background-color: rgb(0,191,255);
+    	background-color: yellow;
     	min-width: 160px;
     	z-index: 10000;
     	padding-top: 1%;
@@ -66,7 +66,7 @@ li.dropdown {
     	transition-duration: 0.01s;
 }
 #immagine-inizio {
-	background-image: url(http://www.millikencarpet.com/en-US/products/featuredcollections/PublishingImages/ActionPaintingSwatch.jpg);
+	background-image: url(http://orig07.deviantart.net/17b5/f/2015/012/6/b/the_diversity_of_cultures_action_painting__by_moppaa-d8d7wjp.jpg);
 	background-size: 100% 100%;
 	width: 100%;
 	padding-top: 50%;
