@@ -66,20 +66,19 @@ li.dropdown {
     	z-index: 10000;
     	transition-duration: 0.01s;
 }
-div.img {
+div.pop-art {
     margin: 7%;
     border: 1% solid ;
     float: fixed;
     width: 75%%;
 }
+div.action-painting {
+    margin: 7%;
+    border: 1% solid ;
+    float: fixed;
+    width: 75%%;
 
-div.img:hover {
-    border: 1% solid;
-}
 
-div.img img {
-    width: 100%;
-    height: auto;
 
 
 
