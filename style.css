@@ -66,12 +66,12 @@ li.dropdown {
     	z-index: 10000;
     	transition-duration: 0.01s;
 }
-#immagine-inizio {
+#pop {
         background-size: 100% 100%;
 	width: 100%;
 	padding-top: 50%;
 }
-#immagine-fine {
+#action {
 	background-size: 100% 100%;
 	width: 100%;
 	padding-top: 50%;
