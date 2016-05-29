@@ -68,7 +68,7 @@ li.dropdown {
 div.img {
     margin: 7%;
     border: 1% solid ;
-    float: left;
+    float: fixed;
     width: 75%%;
 }
 
@@ -79,9 +79,6 @@ div.img:hover {
 div.img img {
     width: 100%;
     height: auto;
-}
-div.desc {
-    padding: 30%%;
-    text-align: center;
+
 
 
