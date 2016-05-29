@@ -129,6 +129,15 @@ ul#lista-footer {
     	padding-top: 2%;
     	background-color: transparent;
 }
+ul#lista-footer {
+	position: fixed ;
+	width: 50%;
+	height: 46%;
+	list-style-type: none;
+    	margin: 0;
+    	padding-top: 2%;
+    	background-color: transparent;
+}
 ul#titolo {
 	font-weight: bold;
 	color: white;
