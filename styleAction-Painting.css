@@ -35,7 +35,7 @@ li a, .dropbtn {
 }
 li a:hover, .dropdown:hover .dropbtn {
     	z-index: 10000;
-    	color: red;
+    	color: white;
     	transition-duration: 0.01s;
 }
 li.dropdown {
@@ -78,11 +78,11 @@ li.dropdown {
 	font-weight: bold;
 	font-size: 350%;
 	left: 6%;
-	color: red;
+	color: white;
 	font-family: "Impact";
 }
 #testo {
-	color: red;
+	color: white;
 	position: absolute;
 	width: 91%;
 	height: 100%;
