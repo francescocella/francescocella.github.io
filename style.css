@@ -66,12 +66,15 @@ li.dropdown {
     	z-index: 10000;
     	transition-duration: 0.01s;
 }
-div.img {
-    margin: 7%;
-    border: 1% solid ;
-    float: fixed;
-    width: 75%%;
-
+#immagine-inizio {
+        background-size: 100% 100%;
+	width: 100%;
+	padding-top: 50%;
+}
+#immagine-fine {
+	background-size: 100% 100%;
+	width: 100%;
+	padding-top: 50%;
 
 
 
