@@ -90,3 +90,23 @@ li.dropdown {
 	font-family: "Impact";
 	text-align: left;
 	padding-left: 6%;
+}
+div.img {
+    margin: 7%;
+    border: 1% solid ;
+    float: left;
+    width: 75%%;
+}
+
+div.img:hover {
+    border: 1% solid;
+}
+
+div.img img {
+    width: 100%;
+    height: auto;
+}
+div.desc {
+    padding: 30%%;
+    text-align: center;
+
