@@ -95,7 +95,7 @@ div.img {
     margin: 7%;
     border: 1% solid ;
     float: left;
-    width: 5%;
+    width: 75%%;
 }
 
 div.img:hover {
@@ -108,5 +108,5 @@ div.img img {
 }
 
 div.desc {
-    padding: 17%;
+    padding: 30%%;
     text-align: center;
