@@ -68,12 +68,11 @@ li.dropdown {
 
 }
 #immagine-pop {
-	background-size: 100% 100%;
 	width: 100%;
 	padding-top: 50%;
 }
 #titolo-pop {
-	position: right;
+	position: fixed;
 	top: 81%;
 	height: 100%;
 	font-weight: bold;
@@ -83,12 +82,11 @@ li.dropdown {
 	font-family: "Impact";
 }
 #immagine-action {
-	background-size: 100% 100%;
 	width: 100%;
 	padding-top: 50%;
 }
 #titolo-action {
-	position: right;
+	position: fixed;
 	top: 81%;
 	height: 100%;
 	font-weight: bold;
