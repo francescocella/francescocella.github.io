@@ -65,14 +65,37 @@ li.dropdown {
     	display: block;
     	z-index: 10000;
     	transition-duration: 0.01s;
+
 }
-#pop-art {
-        width: 100%;
-	padding-top: 50%;
-}
-#action {
+#immagine-pop {
+	background-size: 100% 100%;
 	width: 100%;
 	padding-top: 50%;
+}
+#titolo-pop {
+	position: right;
+	top: 81%;
+	height: 100%;
+	font-weight: bold;
+	font-size: 350%;
+	left: 6%;
+	color: white;
+	font-family: "Impact";
+}
+#immagine-action {
+	background-size: 100% 100%;
+	width: 100%;
+	padding-top: 50%;
+}
+#titolo-action {
+	position: right;
+	top: 81%;
+	height: 100%;
+	font-weight: bold;
+	font-size: 350%;
+	left: 6%;
+	color: white;
+	font-family: "Impact";
 
 
 
